@@ -2,9 +2,9 @@
 
 #### CoolWeatherWithJetpack采用MVVM架构，采用Jetpack官方组件DataBinding + Room + LiveData + ViewModel的一款简单天气App。
 
-![截图](../captures/device-2019-03-27-094128.png)
-![截图](../captures/device-2019-03-27-094202.png)
-![截图](../captures/device-2019-03-27-094223.png)
+![截图](https://github.com/stevenduan17/CoolWeatherWithJetpack/blob/master/captures/device-2019-03-27-094128.png)
+![截图](https://github.com/stevenduan17/CoolWeatherWithJetpack/blob/master/captures/device-2019-03-27-094202.png)
+![截图](https://github.com/stevenduan17/CoolWeatherWithJetpack/blob/master/captures/device-2019-03-27-094223.png)
 
 #### 项目用到的开源库
 
