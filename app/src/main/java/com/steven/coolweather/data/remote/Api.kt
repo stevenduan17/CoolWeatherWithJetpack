@@ -22,5 +22,4 @@ object Api {
         .addConverterFactory(GsonConverterFactory.create())
         .build()
         .create(service)
-
 }
